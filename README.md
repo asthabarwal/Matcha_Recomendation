@@ -11,6 +11,6 @@ PS: i was not able to include raw dataset directly hence i have provided the lin
 
 
 A little about the project:
-- Song recommendation web app based of the principle of content based filtering
-- We can either login with spotify or use anonymous mode
-- Both the options offer different ways to generate recommendations for songs
+- Song recommendation web app based of the principle of content 
+- Using Tfidf Vectorizer and cosine similarity, vectors of each songs and similarity scores of each songs are created
+- There is a login through spotify mode and an anonymous mode
